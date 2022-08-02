@@ -5,14 +5,13 @@ core/__pycache__
 music_app/__pycache__
 music_app/migrations/__pycache__
 
-
-
 podcast_app/__pycache__
 podcast_app/migrations/__pycache__
 
-
-Radio_app/__pycache__
-Radio_app/migrations/__pycache__
+radio_app/__pycache__
+radio_app/migrations/__pycache__
 
 search_app/__pycache__
 search_app/migrations/__pycache__
+
+db_routers/__pycache__
